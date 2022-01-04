@@ -1,0 +1,56 @@
+.titlecontainer {
+    background-color: rgb(115, 108, 153);
+}
+
+.pagetitle {
+    color: cyan;
+    text-align: center;
+    border: 5px solid wheat;
+}
+
+.topimg {
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.orderbottom {
+    background-color: grey;
+    flex: 1 1 auto;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.water {
+    border: 10px sold wheat;
+    margin: 15px;
+    color: black;
+    /* display: inline-flex; */
+}
+
+.coffee {
+    margin: 25px;
+    color: black;
+    /* display: inline-flex; */
+}
+
+.bean {
+    margin: 15px;
+    color: black;
+    /* display: inline-flex; */
+}
+
+.rtlnk {
+    text-align: center;
+}
+
+a {
+    color: cyan;
+}
+
+body {
+    background-color: grey;
+}

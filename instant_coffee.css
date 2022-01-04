@@ -1,0 +1,23 @@
+h1 {
+    padding: 5px;
+    margin: 5px;
+    color: cyan;
+}
+
+h2 {
+    padding: 5px;
+    color: cyan;
+}
+
+body {
+    color:cyan;
+    background-color: grey;
+}
+
+.Steps {
+    padding: 5px;
+    color: solid rgb(234, 245, 245);
+    border: 5px solid wheat;
+    text-align: center;
+    background-color: rgba(160, 69, 245, 0.658);
+    text-shadow: 6px 2px 3px black;

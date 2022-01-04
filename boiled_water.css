@@ -1,0 +1,19 @@
+.title_container {
+    background-color: gray;
+}
+
+.Steps {
+    color: rgb(0, 255, 255);
+    border: 5px solid wheat;
+    text-align: center;
+    background-color: rgba(160, 69, 245, 0.658);
+}
+
+.body {
+    background-color: gray;
+    color: cyan;
+}
+
+.boiledimg {
+    text-align: center;
+}

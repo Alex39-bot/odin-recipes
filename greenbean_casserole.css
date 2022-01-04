@@ -1,0 +1,22 @@
+.Steps {
+    color: solid rgb(234, 245, 245);
+    border: 5px solid wheat;
+    text-align: center;
+    background-color: rgba(160, 69, 245, 0.658);
+    text-shadow: 6px 2px 3px black;
+}
+
+.body {
+    background-color: rgb(136, 136, 136);
+    color: cyan;
+}
+
+.greening {
+    display: block;
+    background-color: rgb(109, 109, 109);
+    text-align: center;
+}
+
+#title {
+    color: solid cyan;
+}               
